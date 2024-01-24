@@ -9,6 +9,7 @@
 [![LICENSE](https://img.shields.io/github/license/XmirrorSecurity/OpenSCA-cli)](https://github.com/XmirrorSecurity/OpenSCA-cli/blob/master/LICENSE)
 [![GitHub all releases](https://img.shields.io/github/downloads/XmirrorSecurity/OpenSCA-cli/total)](https://github.com/XmirrorSecurity/OpenSCA-cli/releases)
 [![Docker Pulls](https://img.shields.io/docker/pulls/opensca/opensca-cli)](https://hub.docker.com/r/opensca/opensca-cli)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSuperChen-CC%2FOpenSCA-cli.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSuperChen-CC%2FOpenSCA-cli?ref=badge_shield)
 
 <!--
 [![GitHub go.mod Go version (subdirectory of monorepo)](https://img.shields.io/github/go-mod/go-version/xmirrorsecurity/opensca-cli)](/go.mod)
@@ -305,3 +306,7 @@ Mailbox: opensca@anpro-tech.com
 OpenSCA is an open source project, we appreciate your contribution!
 
 To contribute, please read our [Contributing Guideline](../docs/Contributing%20Guideline-en%20v1.0.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSuperChen-CC%2FOpenSCA-cli.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSuperChen-CC%2FOpenSCA-cli?ref=badge_large)
